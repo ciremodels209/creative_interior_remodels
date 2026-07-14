@@ -1,0 +1,1 @@
+const s=[...document.querySelectorAll('.slide')],d=[...document.querySelectorAll('.dot')];let i=0;function show(n){s.forEach((x,k)=>x.classList.toggle('active',k===n));d.forEach((x,k)=>x.classList.toggle('active',k===n));i=n}d.forEach((x,k)=>x.onclick=()=>show(k));setInterval(()=>show((i+1)%s.length),5000);
