@@ -1,13 +1,18 @@
+CREATIVE INTERIOR REMODELS WEBSITE
+
 Upload all files and folders to the root of your GitHub repository.
 
-FORM SETUP:
-The estimate form forwards to ciremodels209@gmail.com. Submit one test request and complete the one-time activation email, then test again.
+IMPORTANT:
+- Keep index.html in the repository root.
+- Keep the assets folder and its contents.
+- GitHub Pages should use main branch / root.
+- The estimate form opens the visitor's email app and addresses the message to ciremodels209@gmail.com.
+- Do not add 'Licensed & Insured' or a CSLB number until the license is active.
+- Once licensed, add the exact CSLB number to the footer and advertising.
 
-BEFORE/AFTER:
-Only completed project photos were supplied. Add matching before photos before labeling any pair as a true before-and-after.
-
-REVIEWS:
-Replace placeholders only with real, verified Google reviews.
-
-GITHUB:
-Overwrite the old files, commit changes, wait 1–5 minutes, then refresh the live site.
+Website pages:
+index.html
+services.html
+gallery.html
+about.html
+contact.html
